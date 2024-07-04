@@ -1,6 +1,5 @@
 {
   "name": "white",
-  "homepage": "https://username.github.io/white",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
